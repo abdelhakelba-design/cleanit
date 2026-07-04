@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<title>Oprah's Top 10</title>
+</head>
+<body>
+<div style="margin: auto; text-align: center; border-radius: 20px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1); font-family: Arial, sans-serif; width: 400px; overflow: hidden; border: 1px solid #6a1a1f; position: relative;">
+<img style="width: 100%; margin-top: 0;" src="https://assets.efusercontent.com/2834/offers/3980/c/5298/assets/i.png">
+<div><h1 style="position: absolute; font-size: 30px; top: 4.3rem; left: 2.3rem; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; margin: 0;"> 
+<span style="color: #bd0000; font-weight: 900; font-size: 36px;">Oprah's </span> Favorite Things <br></h1>
+<h2 style="margin: 5px auto 1rem auto; text-transform: uppercase; font-size: 22px; width: 92%; color: #CE2626; padding-bottom: 5px;">Now on <span style="font-weight: 900; background-color: #1fa651; color: white; padding: 0 5px;"> Sale!</span></h2>
+<p style="text-align: center; font-weight: 500; font-size: 17px; width: 90%; margin: auto;"> 
+Explore <b>10 Oprah-inspired</b> favorite finds perfect for <b>sunny days.</b> </p></div>
+<img style="width: 80%; margin-top: 20px; border-radius: 20px;" src="https://assets.efusercontent.com/2834/offers/3980/c/5298/assets/img.png">
+<div style="text-align: center; margin-top: 20px; margin-bottom: 2rem;">
+<a href="https://www.haj9d1wq.com/24QSBG/82D125F/?creative_id=5298" target="_blank" style="text-decoration: none;">
+<button style="background-color: #CE2626; font-weight: 900; color: white; border: none; padding: 13px 40px; font-size: 1.2em; cursor: pointer; border-radius: 40px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);"> 
+<strong>See Summer Collection</strong>
+</button></a></div></div><br>
+<div style="margin: 0 auto; text-align:center; margin-top:20px; font-size:11px; width: 400px; color:#aaa; line-height:1.4;">
+This is an advertisement.<br>
+To discontinue receipt of notifications from this advertiser, please
+<a href="https://www.elevenwordtrain.com/o-jdwc-u47-72d270c67f25628ddd8aa93bc8923a13" style=" text-decoration:underline;">
+click here</a> or write to us at: 1968 S Coast Highway #739, Laguna Beach, CA 92651.
+</div>
+</body>
+</html>
